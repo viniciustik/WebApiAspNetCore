@@ -1,0 +1,17 @@
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Service.deps.json
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Service.dll
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\ref\Service.dll
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Service.pdb
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Model.dll
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Repository.dll
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Model.pdb
+D:\ProjectWeb\WebApiCommercial\Service\bin\Debug\net5.0\Repository.pdb
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.dll
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\ref\Service.dll
+D:\ProjectWeb\WebApiCommercial\Service\obj\Debug\net5.0\Service.pdb
